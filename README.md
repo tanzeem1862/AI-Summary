@@ -2,4 +2,5 @@
 🚀 Live Demo: https://ai-summary-tanzeem.netlify.app/  
 An AI-powered summary app built using the **Gemini API** to generate fast and accurate text summaries.
 
-<img width="952" height="539" alt="image" src="https://github.com/user-attachments/assets/9b5853d1-0de8-4c04-a6a6-71e2aa427230" />
+<img width="957" height="530" alt="image" src="https://github.com/user-attachments/assets/6ae518c1-3541-4333-9b88-445384bc802c" />
+
